@@ -1,5 +1,10 @@
 ### Hi I'm Bojun Zhang 👋
-
+## 🚀 Project Posts
+<!-- BLOG-POST-LIST:START -->
+- [Fishing Game Simulation Using Monte Carlo Methods](https://github.com/bojunz/Fishing-Game-Simulation)
+- [Product revenue visualization software](https://github.com/bojunz/Pandas_GUI)
+- [Information Security Analysis for TMX Bank](https://github.com/bojunz/TMX_Bank)
+- [Competitor Price Analysis Software](https://github.com/bojunz/Scrapy_GUI)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -25,11 +30,6 @@
 
 ## 🌎 Find me  
 - Email-address:<a href="mailto:bzz002341@gmail.com">bzz002341@gmail.com</a>:e-mail:  
-## 🚀 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Fishing Game Simulation Using Monte Carlo Methods](https://github.com/bojunz/Fishing-Game-Simulation)
-- [Product revenue visualization software](https://github.com/bojunz/Pandas_GUI)
-- [Information Security Analysis for TMX Bank](https://github.com/bojunz/TMX_Bank)
-- [Competitor Price Analysis Software](https://github.com/bojunz/Scrapy_GUI)
+
 <!-- BLOG-POST-LIST:END -->
 
