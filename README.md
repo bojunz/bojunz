@@ -1,11 +1,5 @@
 ### Hi I'm Bojun Zhang 👋
 
-![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
-
-Here are some ideas to get you started:
-
-
--->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -14,9 +8,9 @@ Here are some ideas to get you started:
 
 ## ⚡ Tec Stacks
 
+![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=Python)
 ![Php](https://img.shields.io/badge/-Php-%23E44D27?style=flat-square&logo=Php&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-E34A86?style=flat-square&logo=Django)
-![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=Python)
 ![Redis](https://img.shields.io/badge/-Redis-pink?style=flat-square&logo=Redis)
 ![Mysql](https://img.shields.io/badge/Mysql-yellow?style=flat-square&logo=Mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -30,16 +24,12 @@ Here are some ideas to get you started:
 
 
 ## 🌎 Find me  
-- Email-address:<a href="mailto:bzz002341@gmail.com">bzz002341@gmail.com</a>:e-mail:
-- Website: click [WordPress](https://coderfan.net/):memo:    
+- Email-address:<a href="mailto:bzz002341@gmail.com">bzz002341@gmail.com</a>:e-mail:  
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Android C/C++开发嵌入汇编代码](https://coderfan.net/android-c-c-plus-inline-assemble.html?utm_source=rss&utm_medium=rss&utm_campaign=android-c-c-plus-inline-assemble)
-- [Android系统ANR浅析](https://coderfan.net/android-system-anr-analysis.html?utm_source=rss&utm_medium=rss&utm_campaign=android-system-anr-analysis)
-- [Android设备adb shell命令行提示符定制修改](https://coderfan.net/android-adb-shell-command-line-prompt-modification.html?utm_source=rss&utm_medium=rss&utm_campaign=android-adb-shell-command-line-prompt-modification)
-- [诡异的Android makefile编译流程控制问题](https://coderfan.net/android-makefile-conditional-control-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=android-makefile-conditional-control-problem)
-- [Android应用四大组件之Activity](https://coderfan.net/android-application-development-activity.html?utm_source=rss&utm_medium=rss&utm_campaign=android-application-development-activity)
+- [Fishing Game Simulation Using Monte Carlo Methods](https://github.com/bojunz/Fishing-Game-Simulation)
+- [Product revenue visualization software](https://github.com/bojunz/Pandas_GUI)
+- [Information Security Analysis for TMX Bank](https://github.com/bojunz/TMX_Bank)
+- [Competitor Price Analysis Software](https://github.com/bojunz/Scrapy_GUI)
 <!-- BLOG-POST-LIST:END -->
 
-## 🌎 Visitors
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
