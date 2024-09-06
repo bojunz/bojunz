@@ -2,6 +2,7 @@
 ## 🚀 Project Posts
 <!-- BLOG-POST-LIST:START -->
 - [Fishing Game Simulation Using Monte Carlo Methods](https://github.com/bojunz/Fishing-Game-Simulation)
+- [Mobile Phone Security Paper](https://github.com/bojunz/Mobile-Phone-Security)
 - [Product revenue visualization software](https://github.com/bojunz/Pandas_GUI)
 - [Information Security Analysis for TMX Bank](https://github.com/bojunz/TMX_Bank)
 - [Competitor Price Analysis Software](https://github.com/bojunz/Scrapy_GUI)
