@@ -34,3 +34,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+## 🌎 Visitors
+[![Visits Badge](https://badges.pufler.dev/visits/bojunz/git-badges)](https://badges.pufler.dev)
+
