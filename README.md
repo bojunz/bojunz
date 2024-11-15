@@ -2,11 +2,11 @@
 ## 🚀 Project Posts
 <!-- BLOG-POST-LIST:START -->
 - [Fishing Game Simulation Using Monte Carlo Methods](https://github.com/bojunz/Fishing-Game-Simulation) (Data analysis, Data visualization, Monte Carlo)
-- [Mobile Phone Security Paper](https://github.com/bojunz/Mobile-Phone-Security) (Information security, Network security, Disaster recovery, Security registry)
-- [Product revenue visualization software](https://github.com/bojunz/Pandas_GUI) (Data analysis, GUI, Data visualization, Administration system)
-- [Information Security Analysis for TMX Bank](https://github.com/bojunz/TMX_Bank) (Information security, Network security, Disaster recovery, Security registry)
-- [Competitor Price Analysis Software](https://github.com/bojunz/Scrapy_GUI) (Web scraping, GUI, Data visualization)
-- [Amazon Web Scrapying](https://github.com/bojunz/Web_Scraping) (Automation, Web Scrapying, Anti-anti-web scraping)
+- [Product revenue visualization software](https://github.com/bojunz/Pandas_GUI)                         (Data analysis, GUI, Data visualization, Administration system)
+- [Information Security Analysis for TMX Bank](https://github.com/bojunz/TMX_Bank)                       (Information security, Network security, Disaster recovery, Security registry)
+- [Mobile Phone Security Paper](https://github.com/bojunz/Mobile-Phone-Security)                         (Information security, Network security, Disaster recovery, Security registry)
+- [Competitor Price Analysis Software](https://github.com/bojunz/Scrapy_GUI)                             (Web scraping, GUI, Data visualization)
+- [Amazon Web Scrapying](https://github.com/bojunz/Web_Scraping)                                         (Automation, Web Scrapying, Anti-anti-web scraping)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
