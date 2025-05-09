@@ -7,6 +7,7 @@
 - [Mobile Phone Security Paper](https://github.com/bojunz/Mobile-Phone-Security)                         (Information security, Network security, Disaster recovery, Security registry)
 - [Competitor Price Analysis Software](https://github.com/bojunz/Scrapy_GUI)                             (Web scraping, GUI, Data visualization)
 - [Amazon Web Scrapying](https://github.com/bojunz/Web_Scraping)                                         (Automation, Web Scrapying, Anti-anti-web scraping)
+- [Amazon Web Scrapying 2.0](https://github.com/bojunz/Web_scrapying-2.0/tree/main)                      (Automation, Web Scrapying, Anti-anti-web scraping, GUI, Front-Backend interaction)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
